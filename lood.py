@@ -1,6 +1,8 @@
 
 def ecchi():
   for i in range(5):
-    print("loli suki suki daisuki")
+    print("oppai daisuki")
+  print("manko daisuki")
+print("oshiri daisuki")
 
 ecchi()
